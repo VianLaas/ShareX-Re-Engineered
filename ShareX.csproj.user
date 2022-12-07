@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Vian Laas\Desktop\ShareX\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="ShareX\AboutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShareX\ActionsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShareX\ActionsToolbarEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShareX\ActionsToolbarForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShareX\AfterCaptureForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShareX\AfterUploadForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShareX\ApplicationSettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShareX\AutoCaptureForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShareX\BeforeUploadControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ShareX\BeforeUploadForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShareX\BorderlessWindowForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShareX\BorderlessWindowSettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShareX\ClipboardFormatForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShareX\ClipboardUploadForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShareX\DropForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShareX\FileExistForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShareX\FirstTimeConfigForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShareX\FirstTimeUploadForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShareX\HotkeySelectionControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ShareX\HotkeySettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShareX\InspectWindowForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShareX\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShareX\NewsListControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ShareX\NotificationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShareX\OCRForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShareX\QRCodeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShareX\QuickTaskInfoEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShareX\QuickTaskMenuEditorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShareX\ServiceLinksForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShareX\TaskRoundedCornerPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ShareX\TaskSettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShareX\TaskThumbnailPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ShareX\TaskThumbnailView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ShareX\WatchFolderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
